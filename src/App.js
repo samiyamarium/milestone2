@@ -13,7 +13,7 @@ import chatbot from './chatbot.jfif';
 
 function App() {
   function Home(){return (
-    <div className="bu"> <b>HOME</b>
+    <div className="bu"> <b>HOMEPAGE:DETAILS ON DIFFRENTS PERSPECTS OF AI</b>
       <div ><img src={ai} alt='ai' className='bu'/>Emerging technology demands collaboration of two or more technologies to devise a merger that could benefit mankind. <br/><br/>Industrial revolutions brought smart solutions of collaborative nature. <br/><br/>That leads to inventions and the innovation taking over all the aspects now is Artificial Intelligence.<br/><br/>From satellites to ground stations<br/> from agriculture to medical<br/> from engineering to corporate sector<br/> Each one demands introduction of AI to their fields.<br/><br/>   </div>
 
 <div  ><img src={chatbot} alt='chat'className='bu' />Auto response is more close to human behaviour!! <br/><br/> Training AI based automatic response bots like chatGPT brought 180 degrees twist in interaction based communication.<br/><br/> It can generate any pice of desired text, art, visual and some bots also has the ability to reject any inappropriate query.<br/><br/>But that is not all!! There came Agentic AI, taking it one step ahead!!</div>
