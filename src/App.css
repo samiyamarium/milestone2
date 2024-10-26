@@ -1,0 +1,68 @@
+.App {
+  
+  background-color: rgb(105, 57, 238);
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-items: right;
+
+}
+
+
+
+.folio{
+
+  background-color: rgb(142, 163, 25);
+  color: rgb(121, 22, 141);
+  text-align: center;
+ 
+  padding-right: 70px;
+  padding-bottom: 40px;
+  font-family: cursive;
+  font-size:large;
+  text-decoration: none;
+  text-align: justify;
+  border-radius: 50%;
+ 
+}
+.bu{
+  background-color: blueviolet;
+  color:#fffb04;
+  text-decoration: none;
+  border-radius: 50%;
+  border-color: #9bf706;
+  text-align: center;
+  padding: top 10px; 
+  
+}
+.bg{
+ 
+
+  background-image: url('art.jpg');
+  color:#fffb04;
+  text-decoration: none;
+  border-radius: 50%;
+  border-color: #fffb04;
+  text-align: center;
+  padding: top 20px; 
+  padding-block-end: 10px;
+
+}
+
+
+.App-logo {
+  background-color: rgb(49, 52, 214);
+  height: 30vmin;
+  width: 30vmin;
+  pointer-events: none;
+  border-radius: 50%;
+}
+
+.disp{
+  display: flex;
+}
+
+
+
+
